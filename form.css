@@ -1,3 +1,28 @@
+.base-font {
+    font-family: 'Work Sans', sans-serif;
+    font-size-adjust: none;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-stretch: normal;
+    font-variant: normal;
+    text-align: left;
+    text-align-last: auto;
+    text-decoration: none;
+    -webkit-text-emphasis: none;
+    text-emphasis: none;
+    text-height: auto;
+    text-indent: 0;
+    text-justify: auto;
+    text-outline: none;
+    text-shadow: none;
+    text-transform: none;
+    text-wrap: normal;
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(enabled=false)";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 .sp-callback-form {
     font-family: 'Work Sans', sans-serif;
     border: 1px solid #B0B0B0;
